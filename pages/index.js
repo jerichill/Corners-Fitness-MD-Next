@@ -173,8 +173,8 @@ const Home = (props) => {
                   </svg>
                 </div>
                 <span className="home-text26">
-                  Primary Member: $55 per month with 12 month commitment billed
-                  monthly, plus enrollment fee
+                  Primary Member: $60 per month with 12 month commitment billed
+                  monthly, plus $39 enrollment fee
                 </span>
               </div>
               <div className="home-container18">
@@ -187,8 +187,8 @@ const Home = (props) => {
                   </svg>
                 </div>
                 <span className="home-text27">
-                  Secondary Member: $35 per month with 12 month contract billed
-                  monthly, plus enrollment fee
+                  Secondary Member: $40 per month with 12 month contract billed
+                  monthly, plus $29 enrollment fee for first additional member ($20 member thereafter)
                 </span>
               </div>
               <h3 className="home-text28 Healine">Monthly Membership</h3>
@@ -202,8 +202,8 @@ const Home = (props) => {
                   </svg>
                 </div>
                 <span className="home-text29">
-                  Primary Member: $65 per month / billed monthly, plus
-                  enrollment fee 30 day cancellation notice required
+                  Primary Member: $70 per month / billed monthly, plus
+                  $39 enrollment fee
                 </span>
               </div>
               <div className="home-container22">
@@ -216,13 +216,13 @@ const Home = (props) => {
                   </svg>
                 </div>
                 <span className="home-text30">
-                  Secondary Member: $45 per month / billed monthly, plus
-                  enrollment fee 30 day cancellation notice required
+                  Secondary Member: $50 per month / billed monthly,
+                  plus $29 enrollment fee for first additional member ($20 member thereafter)
                 </span>
               </div>
-              <h3 className="home-text31 Healine">Training Price List</h3>
+              <h3 className="home-text31 Healine">Pricing Details and Policies</h3>
               <span className="home-text32">
-                Download our personal and group training price list.
+                Download our complete price list including policy iformation.
               </span>
               <a
                 href="https://docs.google.com/document/d/1HPelYIvVltdQV1Pwm2Cn2vLVIrWQ1QjP/edit?usp=sharing&amp;ouid=116532513873935487604&amp;rtpof=true&amp;sd=true"
